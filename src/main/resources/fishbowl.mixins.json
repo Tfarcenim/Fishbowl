@@ -1,12 +1,12 @@
 {
   "required": true,
-  "package": "com.example.examplemod.mixin",
+  "package": "tfar.fishbowl.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "examplemod.refmap.json",
+  "refmap": "fishbowl.refmap.json",
   "mixins": [
   ],
   "client":[
-    "ExampleMixin"
+    "EntityMixin"
   ],
   "injectors": {
     "defaultRequire": 1
